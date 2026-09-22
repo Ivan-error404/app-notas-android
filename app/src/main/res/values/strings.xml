@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mis Notas</string>
+    <string name="subtitulo_login">Guarda tus ideas en un momento</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="confirmar_password">Confirmar contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrarse">Crear cuenta nueva</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="titulo_nota">Título</string>
+    <string name="contenido_nota">Contenido</string>
+    <string name="fecha">Fecha</string>
+    <string name="nueva_nota">Nueva nota</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="appbar_scrolling_view_behavior">appbar_scrolling_view_behavior</string>
+</resources>
